@@ -1,0 +1,14 @@
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\bin\Release\ResisterCalculator.exe.config
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\bin\Release\ResisterCalculator.exe
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\bin\Release\ResisterCalculator.pdb
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\Resisters.g.cs
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\App.g.cs
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator_MarkupCompile.cache
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator_MarkupCompile.lref
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\Resisters.baml
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator.g.resources
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator.Properties.Resources.resources
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator.csproj.GenerateResource.Cache
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator.exe
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator.pdb
+C:\Users\ck1\Documents\Visual Studio 2015\Projects\ResisterCalculator\ResisterCalculator\obj\Release\ResisterCalculator.csprojResolveAssemblyReference.cache

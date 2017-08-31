@@ -1,0 +1,22 @@
+﻿<Window x:Class="ResisterCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ResisterCalculator"
+        mc:Ignorable="d"
+        Title="Resisters" Height="350" Width="620">
+    <Grid Margin="0,0,2,0">
+        <TextBlock x:Name="textBlock" Margin="146,34,0,263" TextWrapping="Wrap" HorizontalAlignment="Left" Width="300"><Run Text=" "/><Run Text="Select a resister type and then select the band colours"/></TextBlock>
+        <RadioButton x:Name="fourBand" Content="Four Band" HorizontalAlignment="Left" Margin="100,75,0,0" VerticalAlignment="Top" Checked="FourBandCheckBox_Checked"/>
+        <RadioButton x:Name="threeBand" Content="Three Band" HorizontalAlignment="Left" Margin="200,75,0,0" VerticalAlignment="Top" Checked="ThreeBandCheckBox_Checked"/>
+        <ComboBox x:Name="bandOne" HorizontalAlignment="Left" Margin="40,120,0,0" VerticalAlignment="Top" Width="120" Loaded="BandOne_Loaded" SelectionChanged="BandOne_SelectionChanged"/>
+        <ComboBox x:Name="bandTwo" HorizontalAlignment="Left" Margin="180,120,0,0" VerticalAlignment="Top" Width="120" Loaded="BandTwo_Loaded" SelectionChanged="BandTwo_SelectionChanged"/>
+        <ComboBox x:Name="Multiplier" HorizontalAlignment="Left" Margin="320,120,0,0" VerticalAlignment="Top" Width="120" Loaded="Multiplier_Loaded" SelectionChanged="Multiplier_SelectionChanged"/>
+        <ComboBox x:Name="Tolerance" HorizontalAlignment="Left" Margin="460,120,0,0" VerticalAlignment="Top" Width="120" Loaded="Tolerance_Loaded" SelectionChanged="Tolerance_SelectionChanged"/>
+        <TextBlock x:Name="outputBlock" HorizontalAlignment="Left" Margin="378,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="202" FontSize="16"/>
+        <TextBox x:Name="findColours" HorizontalAlignment="Left" Height="23" Margin="40,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="16" GotFocus="find_GotFocus" Text="00 Ohms"/>
+
+
+    </Grid>
+</Window>
